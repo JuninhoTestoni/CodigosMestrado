@@ -1,3 +1,3 @@
 # CodigosMestrado
 
-Este repositório contém os códigos dos experimentos realizados em minha dissertação de mestrado entitulada "MÉTODOS CIRCUNCENTRADOS COM ALEATORIEDADE PARA RESOLUÇÃO DE SISTEMAS LINEARES: ANÁLISE E APLICAÇÕES".
+Este repositório contém os códigos dos experimentos realizados em minha dissertação de mestrado entitulada "MÉTODOS CIRCUNCENTRADOS COM ALEATORIEDADE PARA RESOLUÇÃO DE SISTEMAS LINEARES: ANÁLISE E APLICAÇÕES". Os códigos foram programados na linguagem Julia.
